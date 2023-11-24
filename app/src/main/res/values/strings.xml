@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ExPrimeraEv</string>
+    <string name="menu">Crazy Layouts</string>
+    <string name="t1">Producto</string>
+    <string name="t2">Jabón de manos x1</string>
+    <string name="t3">Shampoo Monster x1</string>
+    <string name="t4">Pastas Duria x2</string>
+    <string name="t5">Detergente Limpiadin x1</string>
+    <string name="t12">Subtotal</string>
+    <string name="t22">$2</string>
+    <string name="t32">$10</string>
+    <string name="t42">$18</string>
+    <string name="t52">$13,4</string>
+    <string name="s1">Subtotal</string>
+    <string name="s2">Coste envío</string>
+    <string name="s3">Cupón</string>
+    <string name="s4">Total</string>
+    <string name="s12">$43,4</string>
+    <string name="s22">$10</string>
+    <string name="s32">-$5</string>
+    <string name="s42">-48,4$</string>
+
+</resources>
